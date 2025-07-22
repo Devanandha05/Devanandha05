@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=1FABC7&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=160&desc=React%20%2F%20Tailwind%20%2F%20Python%20Projects&descAlign=50&descAlignY=70" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B32A8&height=200&section=header&text=Hey,%20I'm%20Devanandha!%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20%2B%20Tailwind%20Enthusiast%20|%20Python%20Learner&descAlignY=60&descAlign=50"/>
 
 
 ### 👨‍💻 About Me
@@ -28,10 +29,8 @@ I'm a passionate **Web Developer** with a curiosity for how things work under th
 
 ### 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanandha&show_icons=true&theme=tokyonight&hide=stars" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanandha&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![Devanandha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanandha&theme=github-compact)
+
 
 ---
 
