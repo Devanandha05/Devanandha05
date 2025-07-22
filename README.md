@@ -27,13 +27,6 @@ I'm a passionate **Web Developer** with a curiosity for how things work under th
 
 ---
 
-### 🚀 GitHub Stats
-
-![Devanandha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanandha&theme=github-compact)
-
-
----
-
 ### 🔥 Current Streak
 
 <p align="center">
