@@ -1,15 +1,16 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B32A8&height=200&section=header&text=Hey,%20I'm%20Devanandha!%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20%2B%20Tailwind%20Enthusiast%20|%20Python%20Learner&descAlignY=60&descAlign=50"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4B32A8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devanandha!;Frontend+Dev+%7C+React+%2B+Tailwind+Lover;Python+Enthusiast+on+a+Dev+Journey" alt="Typing SVG" />
+
 
 ### 👨‍💻 About Me
 
-I'm a passionate **web developer** with a curiosity for how things work under the hood. I’m currently on a journey building full-fledged React projects, mastering clean UI with **Tailwind CSS**, and strengthening my Python fundamentals.
+I'm a passionate **Web Developer** with a curiosity for how things work under the hood. I’m currently on a journey building full-fledged React projects, mastering clean UI with **Tailwind CSS**, and strengthening my Python fundamentals.
 
 - 🛠️ Currently building: `QuizzyNest` 🧠 – A quiz-based learning platform
 - 🧾 Upcoming: `Gamified Resume Builder` – where resumes meet interactivity
 - 📚 Learning daily via #100DaysOfCode
 - ✨ Exploring animations with **Framer Motion**
-- 📫 Reach me: **devanandha@example.com**
+- 📫 Reach me: **sdvanandha@gmail.com**
 
 ---
 
@@ -44,8 +45,8 @@ I'm a passionate **web developer** with a curiosity for how things work under th
 
 ### ✍️ Latest Projects
 
-- 🎯 **[QuizzyNest]** – Gamified quiz platform to learn Python basics
-- 🎨 **BuildWithDva** – Portfolio & UI practice site with beautiful landing pages
+- 🎯 **QuizzyNest** – Gamified quiz platform to learn Python basics
+- 🎨 **Portfolio** – Portfolio & UI practice site with beautiful landing pages
 - 📄 **Resume Builder Game** *(Coming Soon)* – Level up your resume like an RPG
 
 ---
