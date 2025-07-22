@@ -1,6 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Devanandha%20%7C%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&height=150" />
-
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=1FABC7&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&height=160&desc=React%20%2F%20Tailwind%20%2F%20Python%20Projects&descAlign=50&descAlignY=70" />
 
 
 ### 👨‍💻 About Me
