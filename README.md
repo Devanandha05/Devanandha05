@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4B32A8&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devanandha!;Frontend+Dev+%7C+React+%2B+Tailwind+Lover;Python+Enthusiast+on+a+Dev+Journey" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&text=Devanandha%20%7C%20Frontend%20Developer&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&height=150" />
+
 
 
 ### 👨‍💻 About Me
