@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B32A8&height=200&section=header&text=Hey,%20I'm%20Devanandha!%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20%2B%20Tailwind%20Enthusiast%20|%20Python%20Learner&descAlignY=60&descAlign=50"/>
+<h1 align="center">✨ Hey, I'm <span style="color:#D2B4FC;">Devanandha</span> 👋</h1>
+<h3 align="center">Frontend Developer | TailwindCSS Enthusiast | Python Learner</h3>
 
 ---
 
