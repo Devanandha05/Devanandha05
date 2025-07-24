@@ -16,7 +16,7 @@ I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who lov
 
 ---
 
-<h1 align="center"> ## 🧰 Tech Toolbox </h1>
+<h3 align="center"> 🧰 Tech Toolbox </h1>
 
 **Frontend** -
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?style=flat&logo=framer&logoColor=white)
@@ -29,7 +29,7 @@ I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who lov
 
 ---
 
-<h1 align="center"> ## 🚀 Featured Projects </h1>
+<h3 align="center">  🚀 Featured Projects </h1>
 
 ### 🎯 QuizzyNest
 An interactive **quiz platform** built with React + Flask where learners can master Python basics through gamified challenges.
@@ -46,7 +46,7 @@ Built with **React + Tailwind CSS**, showcasing projects, skills, and animations
 
 ---
 
-<h1 align="center"> ## 📈 GitHub Stats </h1>
+<h3 align="center">  📈 GitHub Stats </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanandha&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
