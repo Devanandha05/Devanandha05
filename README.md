@@ -46,15 +46,6 @@ Built with **React + Tailwind CSS**, showcasing projects, skills, and animations
 
 ---
 
-<h3 align="center">  📈 GitHub Stats </h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanandha&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanandha&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4B32A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-devanandha/)
