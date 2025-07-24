@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D2B4FC&center=true&vCenter=true&width=435&lines=✨+Hey%2C+I'm+Devanandha+👋;Frontend+Developer+%7C+Tailwind+%7C+Python+Learner" />
-</p>
+<h1 align="center">✨ Hey, I'm <span style="color:#D2B4FC;">Devanandha</span> 👋</h1>
+<h3 align="center">Welcome to my GitHub Universe!</h3>
 
 ---
 
@@ -37,12 +36,6 @@ I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who lov
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-**Tools**
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
