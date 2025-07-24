@@ -1,6 +1,7 @@
 <!-- Banner -->
-<h1 align="center">✨ Hey, I'm <span style="color:#D2B4FC;">Devanandha</span> 👋</h1>
-<h3 align="center">Frontend Developer | TailwindCSS Enthusiast | Python Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D2B4FC&center=true&vCenter=true&width=435&lines=✨+Hey%2C+I'm+Devanandha+👋;Frontend+Developer+%7C+Tailwind+%7C+Python+Learner" />
+</p>
 
 ---
 
