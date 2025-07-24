@@ -16,20 +16,20 @@ I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who lov
 
 ---
 
-## 🧰 Tech Toolbox
+<h1 align="center"> ## 🧰 Tech Toolbox </h1>
 
-**Frontend**
+**Frontend** -
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?style=flat&logo=framer&logoColor=white)
 
-**Backend & Database**
+**Backend & Database** -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Languages**
+**Languages** -
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+<h1 align="center"> ## 🚀 Featured Projects </h1>
 
 ### 🎯 QuizzyNest
 An interactive **quiz platform** built with React + Flask where learners can master Python basics through gamified challenges.
@@ -46,7 +46,7 @@ Built with **React + Tailwind CSS**, showcasing projects, skills, and animations
 
 ---
 
-## 📈 GitHub Stats
+<h1 align="center"> ## 📈 GitHub Stats </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanandha&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
@@ -55,7 +55,7 @@ Built with **React + Tailwind CSS**, showcasing projects, skills, and animations
 
 ---
 
-## 🌐 Connect with Me
+<h1 align="center"> ## 🌐 Connect with Me </h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4B32A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-devanandha/)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-1FABC7?style=flat&logo=react&logoColor=white)](https://devanandha05.github.io/portfolio-website/)
