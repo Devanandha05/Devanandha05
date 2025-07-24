@@ -33,9 +33,7 @@ I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who lov
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Languages**
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+[C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) [C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
