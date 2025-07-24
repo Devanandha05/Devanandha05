@@ -55,7 +55,7 @@ Built with **React + Tailwind CSS**, showcasing projects, skills, and animations
 
 ---
 
-<h3 align="center"> 🌐 Connect with Me </h3>
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4B32A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-devanandha/)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-1FABC7?style=flat&logo=react&logoColor=white)](https://devanandha05.github.io/portfolio-website/)
