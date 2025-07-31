@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Devanandha**, a BCA graduate and passionate **frontend developer** who loves building visually appealing and meaningful digital experiences. I enjoy turning complex problems into simple, clean UI using **React** and **Tailwind CSS**, while continuously growing my backend skills with **Python** and **Flask**.
+I'm **Devanandha**, a BCA graduate and passionate **web developer** who loves building visually appealing and meaningful digital experiences. I enjoy turning complex problems into simple, clean UI using **React** and **Tailwind CSS**, while continuously growing my backend skills with **Python** and **Flask**.
 
 - 💻 Currently building: **QuizzyNest** 🧠 – A quiz-based learning platform
 - ⚙️ Learning daily as part of the `#100DaysOfCode` challenge
