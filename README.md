@@ -8,10 +8,7 @@
 
 I'm **Devanandha**, a BCA graduate and passionate **web developer** who loves building visually appealing and meaningful digital experiences. I enjoy turning complex problems into simple, clean UI using **React** and **Tailwind CSS**, while continuously growing my backend skills with **Python** and **Flask**.
 
-- 💻 Currently building: **QuizzyNest** 🧠 – A quiz-based learning platform
-- ⚙️ Learning daily as part of the `#100DaysOfCode` challenge
 - 🧠 Exploring concepts deeply, especially in Python, React, and Framer Motion
-- 📜 Upcoming: **Gamified Resume Builder** – Where resumes meet interactivity
 - 📫 Reach me: **sdvanandha@gmail.com**
 
 ---
@@ -23,6 +20,7 @@ I'm **Devanandha**, a BCA graduate and passionate **web developer** who loves bu
 
 **Backend & Database** -
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![COBOL]
 
 **Languages** -
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -30,15 +28,6 @@ I'm **Devanandha**, a BCA graduate and passionate **web developer** who loves bu
 ---
 
 <h3 align="center">  🚀 Featured Projects </h3>
-
-### 🎯 QuizzyNest
-An interactive **quiz platform** built with React + Flask where learners can master Python basics through gamified challenges.
-
-### 🎮 Resume Builder Game *(Coming Soon)*
-A unique twist on resume creation where users can build resumes by completing levels and collecting achievements. *(React, Tailwind, MongoDB)*
-
-### 🧩 Minimalist Invoice Generator *(In Progress)*
-A web app for freelancers that generates stylish invoices with currency/tax support and downloadable PDFs.
 
 ### 🌐 Personal Portfolio
 Built with **React + Tailwind CSS**, showcasing projects, skills, and animations to highlight frontend proficiency.  
